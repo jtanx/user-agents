@@ -20,16 +20,16 @@
     "os_extra": "",
     "browser": "chrome",
     "browser_release_channel": "extended",
-    "browser_version_major": 140,
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    "browser_version_major": 142,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
   },
   {
     "os": "mac",
     "os_extra": "",
     "browser": "chrome",
     "browser_release_channel": "extended",
-    "browser_version_major": 142,
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "browser_version_major": 144,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
   },
   {
     "os": "windows",
@@ -52,16 +52,16 @@
     "os_extra": "",
     "browser": "chrome",
     "browser_release_channel": "extended",
-    "browser_version_major": 140,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    "browser_version_major": 142,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
   },
   {
     "os": "windows",
     "os_extra": "",
     "browser": "chrome",
     "browser_release_channel": "extended",
-    "browser_version_major": 142,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    "browser_version_major": 144,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
   },
   {
     "os": "linux",
@@ -92,8 +92,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 146,
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0"
+    "browser_version_major": 147,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
   },
   {
     "os": "windows",
@@ -108,8 +108,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 146,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+    "browser_version_major": 147,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
   },
   {
     "os": "linux",
@@ -124,8 +124,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 146,
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0"
+    "browser_version_major": 147,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
   },
   {
     "os": "linux",
@@ -140,8 +140,8 @@
     "os_extra": "ubuntu-x86-64",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 146,
-    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0"
+    "browser_version_major": 147,
+    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
   },
   {
     "os": "mac",
