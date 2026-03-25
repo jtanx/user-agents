@@ -76,8 +76,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 148,
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0"
+    "browser_version_major": 149,
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0"
   },
   {
     "os": "windows",
@@ -92,8 +92,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 148,
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
+    "browser_version_major": 149,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0"
   },
   {
     "os": "linux",
@@ -108,8 +108,8 @@
     "os_extra": "",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 148,
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0"
+    "browser_version_major": 149,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
   },
   {
     "os": "linux",
@@ -124,16 +124,16 @@
     "os_extra": "ubuntu-x86-64",
     "browser": "firefox",
     "browser_release_channel": "release",
-    "browser_version_major": 148,
-    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0"
+    "browser_version_major": 149,
+    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
   },
   {
     "os": "mac",
     "os_extra": "",
     "browser": "safari",
     "browser_release_channel": "stable",
-    "browser_version_major": "26.3",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"
+    "browser_version_major": "26.4",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
   },
   {
     "os": "windows",
